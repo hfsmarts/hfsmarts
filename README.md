@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harun
-- 👀 I’m interested in native iOS development
-- 🌱 I’m currently learning SWIFT, SWIFT and SWIFT
+- 👀 native iOS development is my main interest
+- 🌱 looking for junior iOS dev remote position 
 
 <!---
 hfsmarts/hfsmarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
