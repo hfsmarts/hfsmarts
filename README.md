@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harun
+- 👋 Hi, I am Harun
 - 👀 native iOS development is my main interest
 - 🌱 looking for junior iOS developer position 
 
