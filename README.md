@@ -1,5 +1,4 @@
 - 👋 Hi, I am Harun
-- 👀 native iOS development is my main interest
 
 <!---
 hfsmarts/hfsmarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
